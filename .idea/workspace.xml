@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1e836da-9c3a-43fd-917f-ca29715596cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Transformers/EmployeeTransformer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601798217043</updated>
       <workItem from="1601798218132" duration="4659000" />
-      <workItem from="1601815385488" duration="3945000" />
+      <workItem from="1601815385488" duration="4194000" />
     </task>
     <servers />
   </component>
